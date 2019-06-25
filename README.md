@@ -10,6 +10,6 @@ The purpose is to implement a java web application that uses the [Bootstrap Ital
 * **Nicola Dileo** - [Git](https://github.com/nicoladileo)
 
 ## License
-This project is licensed under the MIT License
-The Bootstrap Italia Library is licensed under BSD 3-Clause - [License Here](https://github.com/italia/bootstrap-italia/blob/master/LICENSE)
+* This project is licensed under the MIT License
+* The Bootstrap Italia Library is licensed under BSD 3-Clause - [License Here](https://github.com/italia/bootstrap-italia/blob/master/LICENSE)
 
