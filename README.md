@@ -1,16 +1,15 @@
-# JAVAITALIA
+# Java Italia
 
-A simple Java Web Application built using Bootstrap Italia UI KIT
+A simple Java Web Application built using JSP and Bootstrap Italia UI KIT
 
-## Riferimenti
-Progetto realizzato nell'ambito dell'iniziativo Rappresenta il Dataset - Open Data Contest Regione Campania 2019
-Il progetto è disponibile pubblicamente al link https://auracampania.it.
+## Description
+The purpose is to implement a java web application that uses the [Bootstrap Italia Library](https://italia.github.io/bootstrap-italia/) as UI presentation layer. Bootstrap Italia was born as a library for the creation of Italian Public Administration Websites; the idea behind my project is to extend it to be able to reuse within more complex software such as information systems and in general web applications.
 
 ## Authors
 
-* **Nicola Dileo** - *Initial work* - [Git](https://github.com/nicoladileo)
+* **Nicola Dileo** - [Git](https://github.com/nicoladileo)
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
+The Bootstrap Italia Library is licensed under BSD 3-Clause - [License Here](https://github.com/italia/bootstrap-italia/blob/master/LICENSE)
 
