@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Titilium';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Titilium'), local('Titilium'), url(../fonts/Titillium_Web/TitilliumWeb-Regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lora'), local('çpra'), url(../fonts/Lora/Lora-regular.woff) format('woff');
+}
+
+body {
+	font-family: 'Titilium';
+}
